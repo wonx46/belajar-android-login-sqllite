@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Belajar1</string>
+    <string name="login_title">Belajar wonx</string>
+    <string name="email">masukan email</string>
+    <string name="password">masukan password</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="username">user name</string>
+    <string name="wlcomehome">Welcome Home</string>
+</resources>
